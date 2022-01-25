@@ -1,4 +1,4 @@
 #do400-got-lab
 
 This is an example project repor for DO400 course
-This repo is only for test
+This repo is a simple example
